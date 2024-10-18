@@ -1,4 +1,4 @@
-module gopkg.in/yaml.v3
+module github.com/ilyagulya/yaml
 
 go 1.23.2
 
